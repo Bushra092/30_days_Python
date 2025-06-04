@@ -1,0 +1,4 @@
+Hiiiii!
+I m bushra
+Hello python 
+My first text file creted with open function

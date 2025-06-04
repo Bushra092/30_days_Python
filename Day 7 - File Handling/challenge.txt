@@ -1,0 +1,4 @@
+Python is fun. Python is powerful!
+Learning Python can be exciting, challenging, and rewarding.
+Fun fact: Python was named after Monty Python, not the snake.
+Isn't Python awesome?
