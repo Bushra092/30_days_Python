@@ -1,0 +1,15 @@
+1. john.doe@gmail.com
+2. jane_doe123@gmail.com
+3. test.user+alias@gmail.com
+4. user2025@gmail.com
+5. first.last123@gmail.com
+6. @gmail.com
+7. user!name@gmail.com
+8. valid_email123@gmail.com
+9. user.name@googlemail.com
+10. USER.NAME@gmail.com
+11. username@gmail.co
+12. example.email@GMAIL.COM
+13. my_email@gmail.com
+14. 123user@gmail.com
+15. user@ymail.com
