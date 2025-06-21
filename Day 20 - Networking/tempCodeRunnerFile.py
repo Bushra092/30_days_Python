@@ -1,0 +1,2 @@
+
+# print("💬", data["slip"]["advice"])
