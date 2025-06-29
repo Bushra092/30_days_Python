@@ -1,0 +1,32 @@
+[
+  {
+    "id": 101,
+    "title": "The FastAPI Way - Updated",
+    "author": "Jane Doe",
+    "publishedDate": "2024-05-01"
+  },
+  {
+    "id": 102,
+    "title": "Mastering SQL for Analysts",
+    "author": "John Smith",
+    "publishedDate": "2023-08-15"
+  },
+  {
+    "id": 103,
+    "title": "Python for Data Science",
+    "author": "Emily Johnson",
+    "publishedDate": "2022-11-05"
+  },
+  {
+    "id": 104,
+    "title": "Learning Power BI",
+    "author": "Rajesh Kumar",
+    "publishedDate": "2021-04-20"
+  },
+  {
+    "id": 105,
+    "title": "The Art of Data Analytics",
+    "author": "Fatima Noor",
+    "publishedDate": "2020-02-10"
+  }
+]
