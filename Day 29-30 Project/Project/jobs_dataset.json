@@ -1,0 +1,1690 @@
+[
+    {
+        "job_id": 1,
+        "title": "Database Administrator",
+        "description": "Database Administrator needed with experience in AWS, Azure, TensorFlow, Keras, GCP.",
+        "skills": [
+            "AWS",
+            "Azure",
+            "TensorFlow",
+            "Keras",
+            "GCP"
+        ],
+        "experience_level": "Mid",
+        "location_type": "Hybrid"
+    },
+    {
+        "job_id": 2,
+        "title": "Machine Learning Engineer",
+        "description": "Machine Learning Engineer needed with experience in Tableau, Scikit-learn, R, Keras.",
+        "skills": [
+            "Tableau",
+            "Scikit-learn",
+            "R",
+            "Keras"
+        ],
+        "experience_level": "Mid",
+        "location_type": "Hybrid"
+    },
+    {
+        "job_id": 3,
+        "title": "Data Scientist",
+        "description": "Data Scientist needed with experience in R, Scikit-learn, Power BI.",
+        "skills": [
+            "R",
+            "Scikit-learn",
+            "Power BI"
+        ],
+        "experience_level": "Junior",
+        "location_type": "Remote"
+    },
+    {
+        "job_id": 4,
+        "title": "Database Administrator",
+        "description": "Database Administrator needed with experience in AWS, Excel, Pandas.",
+        "skills": [
+            "AWS",
+            "Excel",
+            "Pandas"
+        ],
+        "experience_level": "Junior",
+        "location_type": "Hybrid"
+    },
+    {
+        "job_id": 5,
+        "title": "AI Specialist",
+        "description": "AI Specialist needed with experience in Scikit-learn, Keras, R, NumPy.",
+        "skills": [
+            "Scikit-learn",
+            "Keras",
+            "R",
+            "NumPy"
+        ],
+        "experience_level": "Mid",
+        "location_type": "Onsite"
+    },
+    {
+        "job_id": 6,
+        "title": "Database Administrator",
+        "description": "Database Administrator needed with experience in Pandas, Tableau, Seaborn.",
+        "skills": [
+            "Pandas",
+            "Tableau",
+            "Seaborn"
+        ],
+        "experience_level": "Senior",
+        "location_type": "Hybrid"
+    },
+    {
+        "job_id": 7,
+        "title": "Business Analyst",
+        "description": "Business Analyst needed with experience in SQL, Seaborn, Keras, R, AWS, MongoDB.",
+        "skills": [
+            "SQL",
+            "Seaborn",
+            "Keras",
+            "R",
+            "AWS",
+            "MongoDB"
+        ],
+        "experience_level": "Mid",
+        "location_type": "Hybrid"
+    },
+    {
+        "job_id": 8,
+        "title": "Statistician",
+        "description": "Statistician needed with experience in Matplotlib, GCP, R, TensorFlow.",
+        "skills": [
+            "Matplotlib",
+            "GCP",
+            "R",
+            "TensorFlow"
+        ],
+        "experience_level": "Junior",
+        "location_type": "Remote"
+    },
+    {
+        "job_id": 9,
+        "title": "Database Administrator",
+        "description": "Database Administrator needed with experience in SQL, AWS, TensorFlow, Seaborn.",
+        "skills": [
+            "SQL",
+            "AWS",
+            "TensorFlow",
+            "Seaborn"
+        ],
+        "experience_level": "Mid",
+        "location_type": "Onsite"
+    },
+    {
+        "job_id": 10,
+        "title": "AI Specialist",
+        "description": "AI Specialist needed with experience in SQL, AWS, Pandas, R, Azure, Tableau.",
+        "skills": [
+            "SQL",
+            "AWS",
+            "Pandas",
+            "R",
+            "Azure",
+            "Tableau"
+        ],
+        "experience_level": "Mid",
+        "location_type": "Hybrid"
+    },
+    {
+        "job_id": 11,
+        "title": "AI Specialist",
+        "description": "AI Specialist needed with experience in Tableau, Azure, Power BI, MongoDB, Seaborn, Keras.",
+        "skills": [
+            "Tableau",
+            "Azure",
+            "Power BI",
+            "MongoDB",
+            "Seaborn",
+            "Keras"
+        ],
+        "experience_level": "Senior",
+        "location_type": "Onsite"
+    },
+    {
+        "job_id": 12,
+        "title": "Statistician",
+        "description": "Statistician needed with experience in SQL, Seaborn, GCP.",
+        "skills": [
+            "SQL",
+            "Seaborn",
+            "GCP"
+        ],
+        "experience_level": "Mid",
+        "location_type": "Remote"
+    },
+    {
+        "job_id": 13,
+        "title": "ETL Developer",
+        "description": "ETL Developer needed with experience in Apache Spark, TensorFlow, Scikit-learn.",
+        "skills": [
+            "Apache Spark",
+            "TensorFlow",
+            "Scikit-learn"
+        ],
+        "experience_level": "Mid",
+        "location_type": "Onsite"
+    },
+    {
+        "job_id": 14,
+        "title": "Statistician",
+        "description": "Statistician needed with experience in MongoDB, R, TensorFlow, Azure, Keras, SQL.",
+        "skills": [
+            "MongoDB",
+            "R",
+            "TensorFlow",
+            "Azure",
+            "Keras",
+            "SQL"
+        ],
+        "experience_level": "Mid",
+        "location_type": "Onsite"
+    },
+    {
+        "job_id": 15,
+        "title": "Database Administrator",
+        "description": "Database Administrator needed with experience in TensorFlow, Tableau, SQL.",
+        "skills": [
+            "TensorFlow",
+            "Tableau",
+            "SQL"
+        ],
+        "experience_level": "Junior",
+        "location_type": "Remote"
+    },
+    {
+        "job_id": 16,
+        "title": "Data Engineer",
+        "description": "Data Engineer needed with experience in TensorFlow, Excel, AWS.",
+        "skills": [
+            "TensorFlow",
+            "Excel",
+            "AWS"
+        ],
+        "experience_level": "Junior",
+        "location_type": "Remote"
+    },
+    {
+        "job_id": 17,
+        "title": "ETL Developer",
+        "description": "ETL Developer needed with experience in Pandas, NumPy, Azure, Tableau, Keras, SQL.",
+        "skills": [
+            "Pandas",
+            "NumPy",
+            "Azure",
+            "Tableau",
+            "Keras",
+            "SQL"
+        ],
+        "experience_level": "Junior",
+        "location_type": "Onsite"
+    },
+    {
+        "job_id": 18,
+        "title": "Machine Learning Engineer",
+        "description": "Machine Learning Engineer needed with experience in Keras, Apache Spark, NumPy, SQL, Seaborn, Matplotlib.",
+        "skills": [
+            "Keras",
+            "Apache Spark",
+            "NumPy",
+            "SQL",
+            "Seaborn",
+            "Matplotlib"
+        ],
+        "experience_level": "Mid",
+        "location_type": "Remote"
+    },
+    {
+        "job_id": 19,
+        "title": "Data Analyst",
+        "description": "Data Analyst needed with experience in NumPy, Keras, SQL, AWS, GCP.",
+        "skills": [
+            "NumPy",
+            "Keras",
+            "SQL",
+            "AWS",
+            "GCP"
+        ],
+        "experience_level": "Junior",
+        "location_type": "Hybrid"
+    },
+    {
+        "job_id": 20,
+        "title": "Machine Learning Engineer",
+        "description": "Machine Learning Engineer needed with experience in Python, GCP, Seaborn.",
+        "skills": [
+            "Python",
+            "GCP",
+            "Seaborn"
+        ],
+        "experience_level": "Junior",
+        "location_type": "Remote"
+    },
+    {
+        "job_id": 21,
+        "title": "AI Specialist",
+        "description": "AI Specialist needed with experience in Excel, GCP, Python, Keras.",
+        "skills": [
+            "Excel",
+            "GCP",
+            "Python",
+            "Keras"
+        ],
+        "experience_level": "Senior",
+        "location_type": "Onsite"
+    },
+    {
+        "job_id": 22,
+        "title": "Machine Learning Engineer",
+        "description": "Machine Learning Engineer needed with experience in Keras, AWS, TensorFlow, Tableau, NumPy, Scikit-learn.",
+        "skills": [
+            "Keras",
+            "AWS",
+            "TensorFlow",
+            "Tableau",
+            "NumPy",
+            "Scikit-learn"
+        ],
+        "experience_level": "Junior",
+        "location_type": "Hybrid"
+    },
+    {
+        "job_id": 23,
+        "title": "ETL Developer",
+        "description": "ETL Developer needed with experience in Scikit-learn, Keras, Seaborn, Pandas, TensorFlow, GCP.",
+        "skills": [
+            "Scikit-learn",
+            "Keras",
+            "Seaborn",
+            "Pandas",
+            "TensorFlow",
+            "GCP"
+        ],
+        "experience_level": "Senior",
+        "location_type": "Onsite"
+    },
+    {
+        "job_id": 24,
+        "title": "Database Administrator",
+        "description": "Database Administrator needed with experience in Seaborn, Pandas, NumPy, MongoDB, Matplotlib, TensorFlow.",
+        "skills": [
+            "Seaborn",
+            "Pandas",
+            "NumPy",
+            "MongoDB",
+            "Matplotlib",
+            "TensorFlow"
+        ],
+        "experience_level": "Mid",
+        "location_type": "Remote"
+    },
+    {
+        "job_id": 25,
+        "title": "AI Specialist",
+        "description": "AI Specialist needed with experience in AWS, TensorFlow, Azure, Seaborn, Excel.",
+        "skills": [
+            "AWS",
+            "TensorFlow",
+            "Azure",
+            "Seaborn",
+            "Excel"
+        ],
+        "experience_level": "Senior",
+        "location_type": "Remote"
+    },
+    {
+        "job_id": 26,
+        "title": "BI Developer",
+        "description": "BI Developer needed with experience in Matplotlib, SQL, Pandas, AWS.",
+        "skills": [
+            "Matplotlib",
+            "SQL",
+            "Pandas",
+            "AWS"
+        ],
+        "experience_level": "Mid",
+        "location_type": "Onsite"
+    },
+    {
+        "job_id": 27,
+        "title": "BI Developer",
+        "description": "BI Developer needed with experience in Matplotlib, Pandas, TensorFlow, Apache Spark, Tableau, GCP.",
+        "skills": [
+            "Matplotlib",
+            "Pandas",
+            "TensorFlow",
+            "Apache Spark",
+            "Tableau",
+            "GCP"
+        ],
+        "experience_level": "Mid",
+        "location_type": "Onsite"
+    },
+    {
+        "job_id": 28,
+        "title": "ETL Developer",
+        "description": "ETL Developer needed with experience in Scikit-learn, Tableau, Azure, Seaborn, AWS.",
+        "skills": [
+            "Scikit-learn",
+            "Tableau",
+            "Azure",
+            "Seaborn",
+            "AWS"
+        ],
+        "experience_level": "Senior",
+        "location_type": "Remote"
+    },
+    {
+        "job_id": 29,
+        "title": "Data Analyst",
+        "description": "Data Analyst needed with experience in TensorFlow, Azure, Scikit-learn, NumPy, Matplotlib, Apache Spark.",
+        "skills": [
+            "TensorFlow",
+            "Azure",
+            "Scikit-learn",
+            "NumPy",
+            "Matplotlib",
+            "Apache Spark"
+        ],
+        "experience_level": "Senior",
+        "location_type": "Onsite"
+    },
+    {
+        "job_id": 30,
+        "title": "Business Analyst",
+        "description": "Business Analyst needed with experience in TensorFlow, Apache Spark, Keras.",
+        "skills": [
+            "TensorFlow",
+            "Apache Spark",
+            "Keras"
+        ],
+        "experience_level": "Senior",
+        "location_type": "Hybrid"
+    },
+    {
+        "job_id": 31,
+        "title": "Data Scientist",
+        "description": "Data Scientist needed with experience in MongoDB, NumPy, SQL, Tableau, Seaborn, Excel.",
+        "skills": [
+            "MongoDB",
+            "NumPy",
+            "SQL",
+            "Tableau",
+            "Seaborn",
+            "Excel"
+        ],
+        "experience_level": "Mid",
+        "location_type": "Onsite"
+    },
+    {
+        "job_id": 32,
+        "title": "Business Analyst",
+        "description": "Business Analyst needed with experience in Scikit-learn, Azure, Seaborn.",
+        "skills": [
+            "Scikit-learn",
+            "Azure",
+            "Seaborn"
+        ],
+        "experience_level": "Mid",
+        "location_type": "Onsite"
+    },
+    {
+        "job_id": 33,
+        "title": "Business Analyst",
+        "description": "Business Analyst needed with experience in Pandas, Matplotlib, AWS.",
+        "skills": [
+            "Pandas",
+            "Matplotlib",
+            "AWS"
+        ],
+        "experience_level": "Senior",
+        "location_type": "Hybrid"
+    },
+    {
+        "job_id": 34,
+        "title": "AI Specialist",
+        "description": "AI Specialist needed with experience in Tableau, Scikit-learn, Keras, AWS, Power BI, SQL.",
+        "skills": [
+            "Tableau",
+            "Scikit-learn",
+            "Keras",
+            "AWS",
+            "Power BI",
+            "SQL"
+        ],
+        "experience_level": "Mid",
+        "location_type": "Hybrid"
+    },
+    {
+        "job_id": 35,
+        "title": "Data Scientist",
+        "description": "Data Scientist needed with experience in Excel, Pandas, Scikit-learn.",
+        "skills": [
+            "Excel",
+            "Pandas",
+            "Scikit-learn"
+        ],
+        "experience_level": "Junior",
+        "location_type": "Hybrid"
+    },
+    {
+        "job_id": 36,
+        "title": "Data Scientist",
+        "description": "Data Scientist needed with experience in Seaborn, SQL, Power BI, Pandas, NumPy.",
+        "skills": [
+            "Seaborn",
+            "SQL",
+            "Power BI",
+            "Pandas",
+            "NumPy"
+        ],
+        "experience_level": "Junior",
+        "location_type": "Onsite"
+    },
+    {
+        "job_id": 37,
+        "title": "Database Administrator",
+        "description": "Database Administrator needed with experience in Power BI, Pandas, AWS, Tableau.",
+        "skills": [
+            "Power BI",
+            "Pandas",
+            "AWS",
+            "Tableau"
+        ],
+        "experience_level": "Senior",
+        "location_type": "Remote"
+    },
+    {
+        "job_id": 38,
+        "title": "AI Specialist",
+        "description": "AI Specialist needed with experience in GCP, TensorFlow, Seaborn, Pandas, Tableau, SQL.",
+        "skills": [
+            "GCP",
+            "TensorFlow",
+            "Seaborn",
+            "Pandas",
+            "Tableau",
+            "SQL"
+        ],
+        "experience_level": "Mid",
+        "location_type": "Onsite"
+    },
+    {
+        "job_id": 39,
+        "title": "Data Engineer",
+        "description": "Data Engineer needed with experience in Pandas, Apache Spark, TensorFlow, Tableau, Excel.",
+        "skills": [
+            "Pandas",
+            "Apache Spark",
+            "TensorFlow",
+            "Tableau",
+            "Excel"
+        ],
+        "experience_level": "Junior",
+        "location_type": "Onsite"
+    },
+    {
+        "job_id": 40,
+        "title": "Data Engineer",
+        "description": "Data Engineer needed with experience in GCP, Scikit-learn, NumPy, Seaborn, Apache Spark, Matplotlib.",
+        "skills": [
+            "GCP",
+            "Scikit-learn",
+            "NumPy",
+            "Seaborn",
+            "Apache Spark",
+            "Matplotlib"
+        ],
+        "experience_level": "Senior",
+        "location_type": "Onsite"
+    },
+    {
+        "job_id": 41,
+        "title": "BI Developer",
+        "description": "BI Developer needed with experience in SQL, Azure, Keras, GCP, Scikit-learn, Seaborn.",
+        "skills": [
+            "SQL",
+            "Azure",
+            "Keras",
+            "GCP",
+            "Scikit-learn",
+            "Seaborn"
+        ],
+        "experience_level": "Mid",
+        "location_type": "Hybrid"
+    },
+    {
+        "job_id": 42,
+        "title": "Data Scientist",
+        "description": "Data Scientist needed with experience in AWS, GCP, Seaborn, R.",
+        "skills": [
+            "AWS",
+            "GCP",
+            "Seaborn",
+            "R"
+        ],
+        "experience_level": "Senior",
+        "location_type": "Remote"
+    },
+    {
+        "job_id": 43,
+        "title": "BI Developer",
+        "description": "BI Developer needed with experience in AWS, GCP, TensorFlow, SQL, Matplotlib, Tableau.",
+        "skills": [
+            "AWS",
+            "GCP",
+            "TensorFlow",
+            "SQL",
+            "Matplotlib",
+            "Tableau"
+        ],
+        "experience_level": "Junior",
+        "location_type": "Onsite"
+    },
+    {
+        "job_id": 44,
+        "title": "Data Scientist",
+        "description": "Data Scientist needed with experience in GCP, Apache Spark, Excel.",
+        "skills": [
+            "GCP",
+            "Apache Spark",
+            "Excel"
+        ],
+        "experience_level": "Mid",
+        "location_type": "Remote"
+    },
+    {
+        "job_id": 45,
+        "title": "Data Scientist",
+        "description": "Data Scientist needed with experience in Scikit-learn, Excel, MongoDB, R, Matplotlib, TensorFlow.",
+        "skills": [
+            "Scikit-learn",
+            "Excel",
+            "MongoDB",
+            "R",
+            "Matplotlib",
+            "TensorFlow"
+        ],
+        "experience_level": "Mid",
+        "location_type": "Onsite"
+    },
+    {
+        "job_id": 46,
+        "title": "Statistician",
+        "description": "Statistician needed with experience in SQL, Python, Pandas, AWS.",
+        "skills": [
+            "SQL",
+            "Python",
+            "Pandas",
+            "AWS"
+        ],
+        "experience_level": "Senior",
+        "location_type": "Remote"
+    },
+    {
+        "job_id": 47,
+        "title": "Database Administrator",
+        "description": "Database Administrator needed with experience in NumPy, SQL, Scikit-learn, Power BI, Keras.",
+        "skills": [
+            "NumPy",
+            "SQL",
+            "Scikit-learn",
+            "Power BI",
+            "Keras"
+        ],
+        "experience_level": "Mid",
+        "location_type": "Hybrid"
+    },
+    {
+        "job_id": 48,
+        "title": "Data Analyst",
+        "description": "Data Analyst needed with experience in Azure, NumPy, Matplotlib.",
+        "skills": [
+            "Azure",
+            "NumPy",
+            "Matplotlib"
+        ],
+        "experience_level": "Junior",
+        "location_type": "Onsite"
+    },
+    {
+        "job_id": 49,
+        "title": "Data Engineer",
+        "description": "Data Engineer needed with experience in Power BI, AWS, SQL, MongoDB, Azure.",
+        "skills": [
+            "Power BI",
+            "AWS",
+            "SQL",
+            "MongoDB",
+            "Azure"
+        ],
+        "experience_level": "Junior",
+        "location_type": "Hybrid"
+    },
+    {
+        "job_id": 50,
+        "title": "Data Engineer",
+        "description": "Data Engineer needed with experience in Excel, SQL, Power BI, Pandas.",
+        "skills": [
+            "Excel",
+            "SQL",
+            "Power BI",
+            "Pandas"
+        ],
+        "experience_level": "Senior",
+        "location_type": "Hybrid"
+    },
+    {
+        "job_id": 51,
+        "title": "ETL Developer",
+        "description": "ETL Developer needed with experience in Seaborn, Excel, Scikit-learn, Power BI.",
+        "skills": [
+            "Seaborn",
+            "Excel",
+            "Scikit-learn",
+            "Power BI"
+        ],
+        "experience_level": "Senior",
+        "location_type": "Onsite"
+    },
+    {
+        "job_id": 52,
+        "title": "Data Analyst",
+        "description": "Data Analyst needed with experience in MongoDB, R, Keras, Apache Spark, GCP, Azure.",
+        "skills": [
+            "MongoDB",
+            "R",
+            "Keras",
+            "Apache Spark",
+            "GCP",
+            "Azure"
+        ],
+        "experience_level": "Mid",
+        "location_type": "Remote"
+    },
+    {
+        "job_id": 53,
+        "title": "Machine Learning Engineer",
+        "description": "Machine Learning Engineer needed with experience in SQL, Apache Spark, NumPy, Seaborn, Keras, AWS.",
+        "skills": [
+            "SQL",
+            "Apache Spark",
+            "NumPy",
+            "Seaborn",
+            "Keras",
+            "AWS"
+        ],
+        "experience_level": "Mid",
+        "location_type": "Onsite"
+    },
+    {
+        "job_id": 54,
+        "title": "Business Analyst",
+        "description": "Business Analyst needed with experience in TensorFlow, Matplotlib, Pandas, Power BI, R, Tableau.",
+        "skills": [
+            "TensorFlow",
+            "Matplotlib",
+            "Pandas",
+            "Power BI",
+            "R",
+            "Tableau"
+        ],
+        "experience_level": "Mid",
+        "location_type": "Remote"
+    },
+    {
+        "job_id": 55,
+        "title": "ETL Developer",
+        "description": "ETL Developer needed with experience in R, Tableau, Scikit-learn, Seaborn, GCP, AWS.",
+        "skills": [
+            "R",
+            "Tableau",
+            "Scikit-learn",
+            "Seaborn",
+            "GCP",
+            "AWS"
+        ],
+        "experience_level": "Mid",
+        "location_type": "Remote"
+    },
+    {
+        "job_id": 56,
+        "title": "Data Scientist",
+        "description": "Data Scientist needed with experience in GCP, AWS, Excel, Pandas.",
+        "skills": [
+            "GCP",
+            "AWS",
+            "Excel",
+            "Pandas"
+        ],
+        "experience_level": "Senior",
+        "location_type": "Remote"
+    },
+    {
+        "job_id": 57,
+        "title": "AI Specialist",
+        "description": "AI Specialist needed with experience in R, GCP, TensorFlow, MongoDB.",
+        "skills": [
+            "R",
+            "GCP",
+            "TensorFlow",
+            "MongoDB"
+        ],
+        "experience_level": "Senior",
+        "location_type": "Onsite"
+    },
+    {
+        "job_id": 58,
+        "title": "Statistician",
+        "description": "Statistician needed with experience in Azure, Tableau, Scikit-learn, NumPy, Keras.",
+        "skills": [
+            "Azure",
+            "Tableau",
+            "Scikit-learn",
+            "NumPy",
+            "Keras"
+        ],
+        "experience_level": "Junior",
+        "location_type": "Hybrid"
+    },
+    {
+        "job_id": 59,
+        "title": "Database Administrator",
+        "description": "Database Administrator needed with experience in Power BI, Tableau, SQL, Apache Spark, Scikit-learn.",
+        "skills": [
+            "Power BI",
+            "Tableau",
+            "SQL",
+            "Apache Spark",
+            "Scikit-learn"
+        ],
+        "experience_level": "Senior",
+        "location_type": "Hybrid"
+    },
+    {
+        "job_id": 60,
+        "title": "Data Analyst",
+        "description": "Data Analyst needed with experience in SQL, Python, Keras.",
+        "skills": [
+            "SQL",
+            "Python",
+            "Keras"
+        ],
+        "experience_level": "Mid",
+        "location_type": "Remote"
+    },
+    {
+        "job_id": 61,
+        "title": "ETL Developer",
+        "description": "ETL Developer needed with experience in Python, Power BI, GCP, Scikit-learn, Pandas.",
+        "skills": [
+            "Python",
+            "Power BI",
+            "GCP",
+            "Scikit-learn",
+            "Pandas"
+        ],
+        "experience_level": "Junior",
+        "location_type": "Onsite"
+    },
+    {
+        "job_id": 62,
+        "title": "Statistician",
+        "description": "Statistician needed with experience in Matplotlib, Python, Scikit-learn, NumPy, Keras.",
+        "skills": [
+            "Matplotlib",
+            "Python",
+            "Scikit-learn",
+            "NumPy",
+            "Keras"
+        ],
+        "experience_level": "Mid",
+        "location_type": "Onsite"
+    },
+    {
+        "job_id": 63,
+        "title": "Data Scientist",
+        "description": "Data Scientist needed with experience in Azure, MongoDB, TensorFlow, Pandas, Power BI.",
+        "skills": [
+            "Azure",
+            "MongoDB",
+            "TensorFlow",
+            "Pandas",
+            "Power BI"
+        ],
+        "experience_level": "Junior",
+        "location_type": "Remote"
+    },
+    {
+        "job_id": 64,
+        "title": "BI Developer",
+        "description": "BI Developer needed with experience in Seaborn, Scikit-learn, R, AWS, Keras, SQL.",
+        "skills": [
+            "Seaborn",
+            "Scikit-learn",
+            "R",
+            "AWS",
+            "Keras",
+            "SQL"
+        ],
+        "experience_level": "Senior",
+        "location_type": "Hybrid"
+    },
+    {
+        "job_id": 65,
+        "title": "Data Engineer",
+        "description": "Data Engineer needed with experience in Matplotlib, Python, Pandas, Apache Spark, Seaborn.",
+        "skills": [
+            "Matplotlib",
+            "Python",
+            "Pandas",
+            "Apache Spark",
+            "Seaborn"
+        ],
+        "experience_level": "Mid",
+        "location_type": "Remote"
+    },
+    {
+        "job_id": 66,
+        "title": "BI Developer",
+        "description": "BI Developer needed with experience in R, Scikit-learn, NumPy.",
+        "skills": [
+            "R",
+            "Scikit-learn",
+            "NumPy"
+        ],
+        "experience_level": "Senior",
+        "location_type": "Remote"
+    },
+    {
+        "job_id": 67,
+        "title": "AI Specialist",
+        "description": "AI Specialist needed with experience in TensorFlow, AWS, Power BI, GCP, Apache Spark, SQL.",
+        "skills": [
+            "TensorFlow",
+            "AWS",
+            "Power BI",
+            "GCP",
+            "Apache Spark",
+            "SQL"
+        ],
+        "experience_level": "Junior",
+        "location_type": "Remote"
+    },
+    {
+        "job_id": 68,
+        "title": "Data Analyst",
+        "description": "Data Analyst needed with experience in AWS, Excel, NumPy.",
+        "skills": [
+            "AWS",
+            "Excel",
+            "NumPy"
+        ],
+        "experience_level": "Mid",
+        "location_type": "Remote"
+    },
+    {
+        "job_id": 69,
+        "title": "Data Analyst",
+        "description": "Data Analyst needed with experience in MongoDB, Python, R, Power BI.",
+        "skills": [
+            "MongoDB",
+            "Python",
+            "R",
+            "Power BI"
+        ],
+        "experience_level": "Mid",
+        "location_type": "Remote"
+    },
+    {
+        "job_id": 70,
+        "title": "Business Analyst",
+        "description": "Business Analyst needed with experience in NumPy, Excel, Tableau, Seaborn, GCP.",
+        "skills": [
+            "NumPy",
+            "Excel",
+            "Tableau",
+            "Seaborn",
+            "GCP"
+        ],
+        "experience_level": "Junior",
+        "location_type": "Onsite"
+    },
+    {
+        "job_id": 71,
+        "title": "Machine Learning Engineer",
+        "description": "Machine Learning Engineer needed with experience in SQL, MongoDB, Power BI, Azure, Seaborn.",
+        "skills": [
+            "SQL",
+            "MongoDB",
+            "Power BI",
+            "Azure",
+            "Seaborn"
+        ],
+        "experience_level": "Mid",
+        "location_type": "Remote"
+    },
+    {
+        "job_id": 72,
+        "title": "AI Specialist",
+        "description": "AI Specialist needed with experience in SQL, R, Scikit-learn.",
+        "skills": [
+            "SQL",
+            "R",
+            "Scikit-learn"
+        ],
+        "experience_level": "Mid",
+        "location_type": "Hybrid"
+    },
+    {
+        "job_id": 73,
+        "title": "ETL Developer",
+        "description": "ETL Developer needed with experience in SQL, Azure, GCP, Keras, Scikit-learn.",
+        "skills": [
+            "SQL",
+            "Azure",
+            "GCP",
+            "Keras",
+            "Scikit-learn"
+        ],
+        "experience_level": "Mid",
+        "location_type": "Hybrid"
+    },
+    {
+        "job_id": 74,
+        "title": "Data Scientist",
+        "description": "Data Scientist needed with experience in Pandas, R, Azure, TensorFlow, GCP.",
+        "skills": [
+            "Pandas",
+            "R",
+            "Azure",
+            "TensorFlow",
+            "GCP"
+        ],
+        "experience_level": "Mid",
+        "location_type": "Hybrid"
+    },
+    {
+        "job_id": 75,
+        "title": "BI Developer",
+        "description": "BI Developer needed with experience in Pandas, Tableau, GCP, Scikit-learn.",
+        "skills": [
+            "Pandas",
+            "Tableau",
+            "GCP",
+            "Scikit-learn"
+        ],
+        "experience_level": "Junior",
+        "location_type": "Remote"
+    },
+    {
+        "job_id": 76,
+        "title": "AI Specialist",
+        "description": "AI Specialist needed with experience in Power BI, Scikit-learn, Matplotlib, R, NumPy, Keras.",
+        "skills": [
+            "Power BI",
+            "Scikit-learn",
+            "Matplotlib",
+            "R",
+            "NumPy",
+            "Keras"
+        ],
+        "experience_level": "Senior",
+        "location_type": "Remote"
+    },
+    {
+        "job_id": 77,
+        "title": "Statistician",
+        "description": "Statistician needed with experience in MongoDB, AWS, Keras, Python, Matplotlib, Scikit-learn.",
+        "skills": [
+            "MongoDB",
+            "AWS",
+            "Keras",
+            "Python",
+            "Matplotlib",
+            "Scikit-learn"
+        ],
+        "experience_level": "Mid",
+        "location_type": "Onsite"
+    },
+    {
+        "job_id": 78,
+        "title": "Data Scientist",
+        "description": "Data Scientist needed with experience in Matplotlib, R, Python, MongoDB, Scikit-learn.",
+        "skills": [
+            "Matplotlib",
+            "R",
+            "Python",
+            "MongoDB",
+            "Scikit-learn"
+        ],
+        "experience_level": "Junior",
+        "location_type": "Onsite"
+    },
+    {
+        "job_id": 79,
+        "title": "Business Analyst",
+        "description": "Business Analyst needed with experience in Tableau, Python, SQL, R, Excel, Keras.",
+        "skills": [
+            "Tableau",
+            "Python",
+            "SQL",
+            "R",
+            "Excel",
+            "Keras"
+        ],
+        "experience_level": "Mid",
+        "location_type": "Onsite"
+    },
+    {
+        "job_id": 80,
+        "title": "Machine Learning Engineer",
+        "description": "Machine Learning Engineer needed with experience in Apache Spark, Excel, Scikit-learn, R, Python.",
+        "skills": [
+            "Apache Spark",
+            "Excel",
+            "Scikit-learn",
+            "R",
+            "Python"
+        ],
+        "experience_level": "Junior",
+        "location_type": "Hybrid"
+    },
+    {
+        "job_id": 81,
+        "title": "Business Analyst",
+        "description": "Business Analyst needed with experience in TensorFlow, AWS, Azure, Tableau.",
+        "skills": [
+            "TensorFlow",
+            "AWS",
+            "Azure",
+            "Tableau"
+        ],
+        "experience_level": "Junior",
+        "location_type": "Hybrid"
+    },
+    {
+        "job_id": 82,
+        "title": "Statistician",
+        "description": "Statistician needed with experience in Tableau, Excel, Azure, Seaborn, GCP, R.",
+        "skills": [
+            "Tableau",
+            "Excel",
+            "Azure",
+            "Seaborn",
+            "GCP",
+            "R"
+        ],
+        "experience_level": "Junior",
+        "location_type": "Onsite"
+    },
+    {
+        "job_id": 83,
+        "title": "Data Engineer",
+        "description": "Data Engineer needed with experience in Keras, TensorFlow, Python, GCP, Apache Spark, Azure.",
+        "skills": [
+            "Keras",
+            "TensorFlow",
+            "Python",
+            "GCP",
+            "Apache Spark",
+            "Azure"
+        ],
+        "experience_level": "Senior",
+        "location_type": "Hybrid"
+    },
+    {
+        "job_id": 84,
+        "title": "Data Scientist",
+        "description": "Data Scientist needed with experience in Pandas, Scikit-learn, Power BI, GCP, SQL, Python.",
+        "skills": [
+            "Pandas",
+            "Scikit-learn",
+            "Power BI",
+            "GCP",
+            "SQL",
+            "Python"
+        ],
+        "experience_level": "Junior",
+        "location_type": "Remote"
+    },
+    {
+        "job_id": 85,
+        "title": "Data Scientist",
+        "description": "Data Scientist needed with experience in SQL, Matplotlib, Pandas, Power BI, Seaborn, Scikit-learn.",
+        "skills": [
+            "SQL",
+            "Matplotlib",
+            "Pandas",
+            "Power BI",
+            "Seaborn",
+            "Scikit-learn"
+        ],
+        "experience_level": "Mid",
+        "location_type": "Hybrid"
+    },
+    {
+        "job_id": 86,
+        "title": "BI Developer",
+        "description": "BI Developer needed with experience in SQL, TensorFlow, Seaborn.",
+        "skills": [
+            "SQL",
+            "TensorFlow",
+            "Seaborn"
+        ],
+        "experience_level": "Mid",
+        "location_type": "Onsite"
+    },
+    {
+        "job_id": 87,
+        "title": "Statistician",
+        "description": "Statistician needed with experience in NumPy, Python, AWS.",
+        "skills": [
+            "NumPy",
+            "Python",
+            "AWS"
+        ],
+        "experience_level": "Mid",
+        "location_type": "Hybrid"
+    },
+    {
+        "job_id": 88,
+        "title": "Data Scientist",
+        "description": "Data Scientist needed with experience in Azure, Tableau, Keras.",
+        "skills": [
+            "Azure",
+            "Tableau",
+            "Keras"
+        ],
+        "experience_level": "Mid",
+        "location_type": "Remote"
+    },
+    {
+        "job_id": 89,
+        "title": "Business Analyst",
+        "description": "Business Analyst needed with experience in Tableau, Pandas, Keras, Scikit-learn, MongoDB, Azure.",
+        "skills": [
+            "Tableau",
+            "Pandas",
+            "Keras",
+            "Scikit-learn",
+            "MongoDB",
+            "Azure"
+        ],
+        "experience_level": "Junior",
+        "location_type": "Remote"
+    },
+    {
+        "job_id": 90,
+        "title": "BI Developer",
+        "description": "BI Developer needed with experience in MongoDB, Seaborn, SQL, R, Tableau.",
+        "skills": [
+            "MongoDB",
+            "Seaborn",
+            "SQL",
+            "R",
+            "Tableau"
+        ],
+        "experience_level": "Junior",
+        "location_type": "Remote"
+    },
+    {
+        "job_id": 91,
+        "title": "Data Scientist",
+        "description": "Data Scientist needed with experience in SQL, Python, TensorFlow, GCP, Azure.",
+        "skills": [
+            "SQL",
+            "Python",
+            "TensorFlow",
+            "GCP",
+            "Azure"
+        ],
+        "experience_level": "Mid",
+        "location_type": "Onsite"
+    },
+    {
+        "job_id": 92,
+        "title": "Data Engineer",
+        "description": "Data Engineer needed with experience in MongoDB, Seaborn, Python, AWS, Matplotlib, TensorFlow.",
+        "skills": [
+            "MongoDB",
+            "Seaborn",
+            "Python",
+            "AWS",
+            "Matplotlib",
+            "TensorFlow"
+        ],
+        "experience_level": "Senior",
+        "location_type": "Onsite"
+    },
+    {
+        "job_id": 93,
+        "title": "Statistician",
+        "description": "Statistician needed with experience in AWS, GCP, Azure, Python.",
+        "skills": [
+            "AWS",
+            "GCP",
+            "Azure",
+            "Python"
+        ],
+        "experience_level": "Junior",
+        "location_type": "Remote"
+    },
+    {
+        "job_id": 94,
+        "title": "Database Administrator",
+        "description": "Database Administrator needed with experience in Excel, MongoDB, AWS, Matplotlib, TensorFlow.",
+        "skills": [
+            "Excel",
+            "MongoDB",
+            "AWS",
+            "Matplotlib",
+            "TensorFlow"
+        ],
+        "experience_level": "Mid",
+        "location_type": "Hybrid"
+    },
+    {
+        "job_id": 95,
+        "title": "Machine Learning Engineer",
+        "description": "Machine Learning Engineer needed with experience in Seaborn, Excel, Power BI, Scikit-learn, AWS.",
+        "skills": [
+            "Seaborn",
+            "Excel",
+            "Power BI",
+            "Scikit-learn",
+            "AWS"
+        ],
+        "experience_level": "Senior",
+        "location_type": "Hybrid"
+    },
+    {
+        "job_id": 96,
+        "title": "Statistician",
+        "description": "Statistician needed with experience in Python, Pandas, R, AWS, Matplotlib, Excel.",
+        "skills": [
+            "Python",
+            "Pandas",
+            "R",
+            "AWS",
+            "Matplotlib",
+            "Excel"
+        ],
+        "experience_level": "Junior",
+        "location_type": "Hybrid"
+    },
+    {
+        "job_id": 97,
+        "title": "ETL Developer",
+        "description": "ETL Developer needed with experience in Pandas, Scikit-learn, NumPy.",
+        "skills": [
+            "Pandas",
+            "Scikit-learn",
+            "NumPy"
+        ],
+        "experience_level": "Senior",
+        "location_type": "Remote"
+    },
+    {
+        "job_id": 98,
+        "title": "Data Analyst",
+        "description": "Data Analyst needed with experience in Power BI, Pandas, Apache Spark, NumPy, SQL.",
+        "skills": [
+            "Power BI",
+            "Pandas",
+            "Apache Spark",
+            "NumPy",
+            "SQL"
+        ],
+        "experience_level": "Junior",
+        "location_type": "Onsite"
+    },
+    {
+        "job_id": 99,
+        "title": "ETL Developer",
+        "description": "ETL Developer needed with experience in Scikit-learn, Excel, Azure, Python.",
+        "skills": [
+            "Scikit-learn",
+            "Excel",
+            "Azure",
+            "Python"
+        ],
+        "experience_level": "Senior",
+        "location_type": "Hybrid"
+    },
+    {
+        "job_id": 100,
+        "title": "AI Specialist",
+        "description": "AI Specialist needed with experience in NumPy, Matplotlib, TensorFlow, Python, Apache Spark.",
+        "skills": [
+            "NumPy",
+            "Matplotlib",
+            "TensorFlow",
+            "Python",
+            "Apache Spark"
+        ],
+        "experience_level": "Junior",
+        "location_type": "Hybrid"
+    },
+    {
+        "job_id": 101,
+        "title": "Machine Learning Engineer",
+        "description": "Machine Learning Engineer needed with experience in AWS, NumPy, Apache Spark, Keras.",
+        "skills": [
+            "AWS",
+            "NumPy",
+            "Apache Spark",
+            "Keras"
+        ],
+        "experience_level": "Senior",
+        "location_type": "Hybrid"
+    },
+    {
+        "job_id": 102,
+        "title": "Machine Learning Engineer",
+        "description": "Machine Learning Engineer needed with experience in Tableau, Seaborn, Azure, Python, Apache Spark, SQL.",
+        "skills": [
+            "Tableau",
+            "Seaborn",
+            "Azure",
+            "Python",
+            "Apache Spark",
+            "SQL"
+        ],
+        "experience_level": "Senior",
+        "location_type": "Remote"
+    },
+    {
+        "job_id": 103,
+        "title": "Machine Learning Engineer",
+        "description": "Machine Learning Engineer needed with experience in Pandas, Excel, R, Azure, Tableau.",
+        "skills": [
+            "Pandas",
+            "Excel",
+            "R",
+            "Azure",
+            "Tableau"
+        ],
+        "experience_level": "Senior",
+        "location_type": "Remote"
+    },
+    {
+        "job_id": 104,
+        "title": "Database Administrator",
+        "description": "Database Administrator needed with experience in Excel, TensorFlow, Pandas.",
+        "skills": [
+            "Excel",
+            "TensorFlow",
+            "Pandas"
+        ],
+        "experience_level": "Mid",
+        "location_type": "Onsite"
+    },
+    {
+        "job_id": 105,
+        "title": "Machine Learning Engineer",
+        "description": "Machine Learning Engineer needed with experience in Apache Spark, Keras, Azure, AWS, Excel, Seaborn.",
+        "skills": [
+            "Apache Spark",
+            "Keras",
+            "Azure",
+            "AWS",
+            "Excel",
+            "Seaborn"
+        ],
+        "experience_level": "Mid",
+        "location_type": "Onsite"
+    },
+    {
+        "job_id": 106,
+        "title": "AI Specialist",
+        "description": "AI Specialist needed with experience in Pandas, Seaborn, Keras, NumPy, Tableau, Apache Spark.",
+        "skills": [
+            "Pandas",
+            "Seaborn",
+            "Keras",
+            "NumPy",
+            "Tableau",
+            "Apache Spark"
+        ],
+        "experience_level": "Senior",
+        "location_type": "Hybrid"
+    },
+    {
+        "job_id": 107,
+        "title": "BI Developer",
+        "description": "BI Developer needed with experience in Power BI, TensorFlow, Apache Spark, Tableau.",
+        "skills": [
+            "Power BI",
+            "TensorFlow",
+            "Apache Spark",
+            "Tableau"
+        ],
+        "experience_level": "Mid",
+        "location_type": "Onsite"
+    },
+    {
+        "job_id": 108,
+        "title": "ETL Developer",
+        "description": "ETL Developer needed with experience in Apache Spark, SQL, Seaborn, Python, Keras.",
+        "skills": [
+            "Apache Spark",
+            "SQL",
+            "Seaborn",
+            "Python",
+            "Keras"
+        ],
+        "experience_level": "Mid",
+        "location_type": "Remote"
+    },
+    {
+        "job_id": 109,
+        "title": "Data Analyst",
+        "description": "Data Analyst needed with experience in Scikit-learn, AWS, Python, TensorFlow, Keras, MongoDB.",
+        "skills": [
+            "Scikit-learn",
+            "AWS",
+            "Python",
+            "TensorFlow",
+            "Keras",
+            "MongoDB"
+        ],
+        "experience_level": "Mid",
+        "location_type": "Onsite"
+    },
+    {
+        "job_id": 110,
+        "title": "Database Administrator",
+        "description": "Database Administrator needed with experience in AWS, Apache Spark, SQL, Seaborn.",
+        "skills": [
+            "AWS",
+            "Apache Spark",
+            "SQL",
+            "Seaborn"
+        ],
+        "experience_level": "Junior",
+        "location_type": "Onsite"
+    },
+    {
+        "job_id": 111,
+        "title": "Data Analyst",
+        "description": "Data Analyst needed with experience in GCP, Apache Spark, Keras.",
+        "skills": [
+            "GCP",
+            "Apache Spark",
+            "Keras"
+        ],
+        "experience_level": "Junior",
+        "location_type": "Onsite"
+    },
+    {
+        "job_id": 112,
+        "title": "Business Analyst",
+        "description": "Business Analyst needed with experience in Seaborn, NumPy, GCP, Keras, AWS, Python.",
+        "skills": [
+            "Seaborn",
+            "NumPy",
+            "GCP",
+            "Keras",
+            "AWS",
+            "Python"
+        ],
+        "experience_level": "Senior",
+        "location_type": "Remote"
+    },
+    {
+        "job_id": 113,
+        "title": "Statistician",
+        "description": "Statistician needed with experience in Scikit-learn, Azure, Python, TensorFlow, Matplotlib, Seaborn.",
+        "skills": [
+            "Scikit-learn",
+            "Azure",
+            "Python",
+            "TensorFlow",
+            "Matplotlib",
+            "Seaborn"
+        ],
+        "experience_level": "Mid",
+        "location_type": "Onsite"
+    },
+    {
+        "job_id": 114,
+        "title": "Data Engineer",
+        "description": "Data Engineer needed with experience in Scikit-learn, NumPy, Azure, Excel, Python.",
+        "skills": [
+            "Scikit-learn",
+            "NumPy",
+            "Azure",
+            "Excel",
+            "Python"
+        ],
+        "experience_level": "Mid",
+        "location_type": "Remote"
+    },
+    {
+        "job_id": 115,
+        "title": "Data Engineer",
+        "description": "Data Engineer needed with experience in GCP, Power BI, NumPy, Azure, R, AWS.",
+        "skills": [
+            "GCP",
+            "Power BI",
+            "NumPy",
+            "Azure",
+            "R",
+            "AWS"
+        ],
+        "experience_level": "Mid",
+        "location_type": "Onsite"
+    },
+    {
+        "job_id": 116,
+        "title": "Data Scientist",
+        "description": "Data Scientist needed with experience in MongoDB, NumPy, Tableau, GCP.",
+        "skills": [
+            "MongoDB",
+            "NumPy",
+            "Tableau",
+            "GCP"
+        ],
+        "experience_level": "Mid",
+        "location_type": "Remote"
+    },
+    {
+        "job_id": 117,
+        "title": "Data Scientist",
+        "description": "Data Scientist needed with experience in Matplotlib, R, Excel.",
+        "skills": [
+            "Matplotlib",
+            "R",
+            "Excel"
+        ],
+        "experience_level": "Senior",
+        "location_type": "Remote"
+    },
+    {
+        "job_id": 118,
+        "title": "Data Analyst",
+        "description": "Data Analyst needed with experience in Seaborn, AWS, Apache Spark.",
+        "skills": [
+            "Seaborn",
+            "AWS",
+            "Apache Spark"
+        ],
+        "experience_level": "Mid",
+        "location_type": "Hybrid"
+    },
+    {
+        "job_id": 119,
+        "title": "Statistician",
+        "description": "Statistician needed with experience in Scikit-learn, SQL, Apache Spark, Matplotlib, TensorFlow.",
+        "skills": [
+            "Scikit-learn",
+            "SQL",
+            "Apache Spark",
+            "Matplotlib",
+            "TensorFlow"
+        ],
+        "experience_level": "Mid",
+        "location_type": "Hybrid"
+    },
+    {
+        "job_id": 120,
+        "title": "Statistician",
+        "description": "Statistician needed with experience in MongoDB, Scikit-learn, Tableau, Matplotlib, Keras.",
+        "skills": [
+            "MongoDB",
+            "Scikit-learn",
+            "Tableau",
+            "Matplotlib",
+            "Keras"
+        ],
+        "experience_level": "Mid",
+        "location_type": "Remote"
+    },
+    {
+        "job_id": 121,
+        "title": "Data Scientist",
+        "description": "Data Scientist needed with experience in MongoDB, NumPy, Tableau, GCP.",
+        "skills": [
+            "MongoDB",
+            "NumPy",
+            "Tableau",
+            "GCP"
+        ],
+        "experience_level": "Mid",
+        "location_type": "Remote"
+    },
+    {
+        "job_id": 122,
+        "title": "Statistician",
+        "description": "Statistician needed with experience in Scikit-learn, Azure, Python, TensorFlow, Matplotlib, Seaborn.",
+        "skills": [
+            "Scikit-learn",
+            "Azure",
+            "Python",
+            "TensorFlow",
+            "Matplotlib",
+            "Seaborn"
+        ],
+        "experience_level": "Mid",
+        "location_type": "Onsite"
+    },
+    {
+        "job_id": 123,
+        "title": "Database Administrator",
+        "description": "Database Administrator needed with experience in AWS, Apache Spark, SQL, Seaborn.",
+        "skills": [
+            "AWS",
+            "Apache Spark",
+            "SQL",
+            "Seaborn"
+        ],
+        "experience_level": "Junior",
+        "location_type": "Onsite"
+    }
+]
