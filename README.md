@@ -55,6 +55,14 @@ If you'd like to take the same 30-day journey, follow along with this amazing fr
 🔗 [30DaysOfPython by Indian Data Club (Notion)](https://indiandataclub.notion.site/30DaysOfPython-1f9a16c0422f8074bf29eee315a6802a)
 
 ---
+ 
+
+## 📖 Easy Notes
+
+For easy and practical notes, check out my personal Notion workspace:  
+🔗 [My Python Notes on Notion(Notion)](https://www.notion.so/30_days_Python-2016392f632380f9acf1dc3bbc39f050)
+
+---
 
 ## 🙌 Final Notes
 
@@ -62,7 +70,4 @@ Each file contains:
 - ✅ What I learned
 - 🔗 Useful references
 - 🚀 Challenges I completed
-
-Feel free to explore each day's content to follow along or to get started with your own Python journey!
-
-> ⭐ Star the repo if you find this helpful. Contributions & feedback welcome!
+  
